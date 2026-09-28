@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Javier Jándula 👋
 
-<!--
-**jandulaj/jandulaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior BI Engineer | Data Analyst | SQL, Python & Automation**
+Based in Argentina · Open to remote international opportunities
 
-Here are some ideas to get you started:
+I'm a Systems Engineer with 15+ years of experience in technology, including 8+ years specializing in Business Intelligence and MicroStrategy. I build and support enterprise BI solutions and I'm expanding into Python, data analysis and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+
+- **BI & Data:** MicroStrategy (2010 → One), Power BI, SSIS, SQL, data modeling, ETL
+- **Databases:** SQL Server, Oracle, PostgreSQL, MySQL
+- **Python & Automation:** Python, n8n, Docker, Linux
+- **Also:** MicroStrategy REST API, Command Manager, Security Filters
+
+## Projects
+
+- 🚧 **Retail sales analysis (INDEC Supermarket Survey)**: Python + SQL + Power BI. *In progress.*
+- 🚧 **AI sales agent (WhatsApp + n8n)**: architecture and workflow. *Coming soon.*
+
+## Get in touch
+
+- LinkedIn: [javiergustavo-jándula-953aa88](https://www.linkedin.com/in/javiergustavo-jándula-953aa88)
+- Email: jandulaj@hotmail.com
