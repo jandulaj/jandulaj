@@ -19,4 +19,4 @@ I'm a Systems Engineer with 15+ years of experience in technology, including 8+ 
 
 ## Get in touch
 
-- LinkedIn: [javiergustavo-jándula-953aa88](https://www.linkedin.com/in/javiergustavo-jándula-953aa88)
+- LinkedIn: [javiergustavo-jándula-953aa88](www.linkedin.com/in/javier-gustavo-jándula-953aa88)
